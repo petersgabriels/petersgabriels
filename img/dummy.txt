@@ -1,0 +1,17 @@
+# Hello World, I'm Peters Gabriel
+![petersgabrielsilalahi](img/github-header-banner.png)
+
+- I'm laravel fullstack developer
+- I'm Currentyly learning  Artificial Inteligence for Programming
+- I'm Antusiast for Data Science & Data Analyst
+
+##### skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,laravel,aws,azure,vue,react,flutter)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white">
+<img src="https://img.shields.io/badge/deepmind-%234285F4.svg?style=for-the-badge&logo=deepmind&logoColor=white">
+<img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white">
+<img src="https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white">
+<img src="https://img.shields.io/badge/Qwen-%236950EF.svg?style=for-the-badge&logo=qwen&logoColor=white">
+
+[![peters GitHub stats](https://github-readme-stats.vercel.app/api?username=petersgabriels&show)]
